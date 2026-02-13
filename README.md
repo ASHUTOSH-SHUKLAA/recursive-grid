@@ -4,7 +4,7 @@ An interactive 3x3 number grid that implements ripple-based logic rules, visual 
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Application](https://your-vercel-url.vercel.app)** _(will be updated after deployment)_
+🔗 **[View Live Application](https://recursive-grid-eight.vercel.app/)**
 
 ## 📋 Overview
 
